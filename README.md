@@ -16,12 +16,15 @@ https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc
 ### Visualisation
 
 - [Netron](https://github.com/lutzroeder/netron)
+- [Importing Image Data into NumPy Arrays](https://www.pluralsight.com/guides/importing-image-data-into-numpy-arrays)
+
 ### Tensorflow Lite
 
 - [Inferences from a TF Lite model — Transfer Learning on a Pre-trained Model](https://towardsdatascience.com/inferences-from-a-tf-lite-model-transfer-learning-on-a-pre-trained-model-e16e7c5f0ee6)
 - [Introduction to TensorFlow Lite](https://studymachinelearning.com/introduction-to-tensorflow-lite/)
 - [Model Quantization Methods In TensorFlow Lite](https://studymachinelearning.com/model-quantization-methods-in-tensorflow-lite/)
 - [TensorSpace.js - neural network 3D visualization framework](https://tensorspace.org/)
+- [On-Device Machine Learning: Train And Run TensorFlow Lite Models In Your Flutter Apps](https://medium.com/google-cloud/on-device-machine-learning-train-and-run-tensorflow-lite-models-in-your-flutter-apps-15ea796e5ad4)
 
 ### GPU
 
